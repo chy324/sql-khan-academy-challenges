@@ -1,7 +1,3 @@
-# sql-khan-academy-challenges
-Coursework includes: SQL Basic, More Advanced SQL Queries, Relational Queries in SQL, Modifying Databases with SQL
-
-
 /*We've created a database for customers and their orders. Note, not all of the customers 
 have made orders. */
 
